@@ -70,7 +70,7 @@ public class Ordenacion {
             pw.println();
             
            
-            printVectorHTML(pw, v1, "Vector Desordenado update V1");
+            printVectorHTML(pw, v1, "Vector Desordenado update actualizando V1");
             pw.println("<br>");
             printVectorHTML(pw, v2, "Vector Ordenado V2");
             
